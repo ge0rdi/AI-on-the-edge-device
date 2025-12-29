@@ -201,6 +201,7 @@ jobs:
       with:
         name: update
         path: ./update/*
+        compression-level: 0
 
 #########################################################################################
 ## Pack for Remote Setup 
